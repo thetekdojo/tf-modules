@@ -1,2 +1,2 @@
 # tf-modules
-Here are all the modules that provision are infrastructure
+Here are all the modules use to provision our infrastructure
